@@ -1,10 +1,9 @@
-<<<<<<< HEAD
-=======
+
 # Sorting Algorithm Visualizer
 
 This is an interactive web application built with Next.js and TypeScript that visualizes popular sorting algorithms in real-time. It provides a clear, step-by-step graphical representation of how each algorithm works, making it an excellent educational tool for students, developers, and anyone interested in computer science fundamentals.
 
-![Sorting Visualizer Screenshot](https://github.com/RavikumarGoda/Sorting-vis/blob/main/src/app/Screenshot%202025-07-29%20104825.png)
+![Sorting Visualizer Screenshot](https://github.com/RavikumarGoda/Sorting-vis/blob/main/src/app/UI.png)
 *A placeholder for your app's screenshot. You can replace this link with a real one.*
 
 ---
